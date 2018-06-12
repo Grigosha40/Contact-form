@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import Mailer from './Mailer.js';
 import './App.css';
 
 
