@@ -6,7 +6,7 @@ class Contact extends Component {
     render() {
       return (
         
-         <TextField variant="Input" color="placeholder" onClick={Contact.Send_function()} >
+         <TextField variant="Input" color="placeholder" onClick={Text.Send_function()} >
          Your message
         </TextField> 
        
