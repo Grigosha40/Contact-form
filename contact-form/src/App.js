@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-
+import Input from './Input.js';
 import './App.css';
-
+import Button from '@material-ui/core/Button';
+import $ from 'jquery';
 
 class App extends React.Component{
   contactUs() {
